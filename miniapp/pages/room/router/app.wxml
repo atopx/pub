@@ -1,0 +1,6 @@
+<!--pages/room/manage/app.wxml-->
+<view class="container">
+    <button bindtap="new_room" class="btn">开个包厢</button>
+    <button bindtap="join_room" class="btn">进入包厢</button>
+    <button bindtap="biography" class="btn">酒馆传记</button>
+</view>

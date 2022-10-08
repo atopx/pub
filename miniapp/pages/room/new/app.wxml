@@ -1,0 +1,23 @@
+<!--pages/room/new/app.wxml-->
+
+<view class="container">
+  <view class="page-body">
+    <form catchsubmit="submit" catchreset="router">
+
+    <view class="page-section" style="margin: 170rpx 0">
+          <view class="weui-cell weui-cell_input">
+            <view class="page-section-title">包厢人数</view>
+            <view class="weui-cell__bd" style="margin: 30rpx 0" >
+              <input class="weui-input" name="number" type="number" placeholder="点此输入包厢人数" />
+            </view>
+        </view>
+      </view>
+
+        <view class="btn-area">
+            <button style="margin: 30rpx 0" type="primary" formType="submit">提交申请</button>
+            <button style="margin: 30rpx 0" formType="reset">返回主页</button>
+        </view>
+    </form>
+  </view>
+
+</view>

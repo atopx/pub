@@ -1,0 +1,16 @@
+/* pages/room/manage/app.wxss */
+.btn {
+    background: rgba(17,208,192,.88);
+    margin-top: 15%;
+    font-size: 36rpx;
+    color: #fff;
+    border-radius: 36rpx;
+  }
+
+  .container {
+    flex-direction: column;
+    justify-content:center;
+    align-content: center;
+    align-items: center;
+  }
+  
