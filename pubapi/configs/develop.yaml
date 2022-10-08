@@ -1,0 +1,15 @@
+server:
+  name: toolbox
+  env: develop
+  localhost: 127.0.0.1
+  port: 8000
+
+wechat:
+  appid: wxaea44585e3a90452
+  secret: 17de643075ad9679a7057e47834e3ae0
+  token: atopx
+
+caiyun:
+  key: d7NtAjbCooopUEyf
+  lng: 116.493088
+  lat: 39.989839
